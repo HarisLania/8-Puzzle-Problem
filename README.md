@@ -1,2 +1,2 @@
 # 8-Puzzle-Problem
-8-Puzzle-Problem built in python using greedy best first search
+An 8 puzzle is a simple game consisting of a 3 x 3 grid (containing 9 squares). One of the squares is empty. The object is to move to squares around into different positions and having the numbers displayed in the "goal state". So I made a bot who can do this task by itself. So, what my bot does is he make an heuristic approach which is "How far each tile has to move to get its current state" than I summed each state heuristic. Then my bot check which has the lowest heuristic and then pick that.
